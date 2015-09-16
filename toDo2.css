@@ -1,1 +1,12 @@
-  hello
+section.high {background-color: red;
+        color: white;
+}
+section.medium {background-color:orange;
+        color: white;
+}
+section.low {background-color: gray;
+        color: black;
+}
+section.done {background-color: black;
+        color: cyan;
+}
