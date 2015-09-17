@@ -1,12 +1,12 @@
-.high { 
+li.high { 
   color : red;
 }
-.medium {
+li.medium {
   color: orange;
 }
-.low {
+li.low {
   color: gray;
 }
-.done {
+li.done {
   color: yellow;
 }
