@@ -15,11 +15,12 @@
   text-decoration : line-through;
   
 }
-li {
-  text-align : center;
-}
 h1 {
   font-size : 34pt;
   text-align : center;
   text-decoration : underline;
 }
+ul {
+  text-align : center;
+}
+
