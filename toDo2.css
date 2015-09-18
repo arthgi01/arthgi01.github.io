@@ -15,4 +15,5 @@ section {
   height : 200px;
   width : 300px;
   overflow : auto;
+  float : left;
 }
