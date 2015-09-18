@@ -1,12 +1,17 @@
 .high { 
   color : red;
+  font-size : 26pt;
 }
 .medium {
-  color: orange;
+  color: orange;\
+  font-size : 26pt;
 }
 .low {
   color: gray;
+  font-size : 26pt;
 }
 .done {
-  <del>
+  <del>;
+  font-size : 26pt;
+  
 }
