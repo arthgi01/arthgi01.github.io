@@ -16,5 +16,6 @@ h1 {
 }
 .done {
   font-size : 26pt;
+  text-decoration : line-through;
   
 }
