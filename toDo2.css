@@ -10,3 +10,7 @@ section.low {background-color: gray;
 section.done {background-color: black;
         color: cyan;
 }
+section {
+  border : 5px;
+  color : green;
+}
