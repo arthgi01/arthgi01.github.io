@@ -11,7 +11,7 @@ section.done {background-color: black;
         color: cyan;
 }
 section {
-  border : 5px color : black;
+  border : 5px solid black;
   height : 200px;
   width : 300px;
   overflow : auto;
