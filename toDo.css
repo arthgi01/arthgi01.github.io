@@ -25,5 +25,11 @@ ul {
 }
 body {
   background-image : url("http://trinities.org/blog/wp-content/uploads/Holy-Spirit-Dove.jpg");
+  background-position : right-top;
+  background-repeat : no-repeat;
+}
+section {
+  border : 5px;
+  color : green;
 }
 
