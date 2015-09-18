@@ -14,4 +14,5 @@ section {
   border : 5px color : solid-black;
   height : 200px;
   width : 200px;
+  overflow : auto;
 }
