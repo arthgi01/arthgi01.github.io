@@ -1,12 +1,12 @@
 .high { 
-  text-color : red;
+  color : red;
 }
 .medium {
-  text-color: orange;
+  color: orange;
 }
 .low {
-  text-color: gray;
+  color: gray;
 }
 .done {
-  text-color: yellow;
+  color: yellow;
 }
