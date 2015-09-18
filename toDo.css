@@ -27,6 +27,7 @@ body {
   background-image : url("http://trinities.org/blog/wp-content/uploads/Holy-Spirit-Dove.jpg");
   background-position : left center, right top;
   background-repeat : no-repeat;
+  background-size : cover;
 }
 
 
