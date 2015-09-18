@@ -1,8 +1,3 @@
-h1 {
-  font-size : 34pt;
-  text-align : center;
-  text-decoration : underline;
-}
 .high { 
   color : red;
   font-size : 26pt;
@@ -22,4 +17,9 @@ h1 {
 }
 li {
   text-align : center;
+}
+h1 {
+  font-size : 34pt;
+  text-align : center;
+  text-decoration : underline;
 }
