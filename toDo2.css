@@ -17,6 +17,9 @@ section {
   overflow : auto;
   float : left;
 }
+h2 {
+        text-align: center;
+}
 footer {
         clear: both;
 }
