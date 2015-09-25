@@ -2,3 +2,7 @@ body {
   background-image: url("http://www.dream-wallpaper.com/free-wallpaper/nature-wallpaper/apple-scenery-2-wallpaper/1280x800/free-wallpaper-21.jpg")
   
 }
+img.here {
+  float: left;
+  margin: 0 0 10px 10px;
+}
