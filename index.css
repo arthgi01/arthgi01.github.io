@@ -4,6 +4,13 @@ nav:hover~li {
   background-color: lightblue;
   margin: 20px;
 }
+li {
+  display: inline;
+}
+li:hover {
+  background-color: lightblue;
+}
+
 body {
   background-image: url("http://www.mrwallpaper.com/wallpapers/gradient-background.jpg")
 }
