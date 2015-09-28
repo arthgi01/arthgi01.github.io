@@ -1,12 +1,10 @@
-nav:hover~li {
-  position: fixed;
-  display: inline;
-  background-color: lightblue;
+nav {
   margin: 20px;
 }
 li {
   display: inline;
 }
+
 li:hover {
   background-color: lightblue;
 }
