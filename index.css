@@ -6,6 +6,10 @@ nav:hover~li {
 body {
   background-image: url("http://www.mrwallpaper.com/wallpapers/gradient-background.jpg")
 }
+h1 {
+  text-align: center;
+  position: fixed;
+}
 img.here {
   float: left;
   margin: 30px 30px 10px 10px;
