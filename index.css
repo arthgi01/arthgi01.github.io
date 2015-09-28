@@ -2,6 +2,7 @@ nav:hover~li {
   position: fixed;
   display: inline;
   background-color: lightblue;
+  margin: 20px;
 }
 body {
   background-image: url("http://www.mrwallpaper.com/wallpapers/gradient-background.jpg")
@@ -9,6 +10,8 @@ body {
 h1 {
   text-align: center;
   position: fixed;
+  margin: 50px;
+  padding: 20px;
 }
 img.here {
   float: left;
