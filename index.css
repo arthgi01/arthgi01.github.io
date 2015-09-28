@@ -1,4 +1,5 @@
-nav:hover {
+nav:hover~li {
+  position: fixed;
   display: inline;
   background-color: lightblue;
 }
