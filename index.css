@@ -6,7 +6,7 @@ nav {
 
 nav li {
   display: inline;
-  margin: 100px;
+  margin: 150px;
   font-size: 15pt;
  }
   
@@ -20,6 +20,9 @@ header {
   text-align: center;
   font-size: 50pt;
   padding: 20px;
+  border-style: ridge;
+  border-width: 5px;
+  border-color: DarkGoldenRod;
   }
 
 section {
