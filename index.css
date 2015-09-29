@@ -25,7 +25,6 @@ header {
   }
 
 section {
-  background-color: lightblue;
   width: 50%;
   height: 700px;
   float: left;
@@ -33,7 +32,6 @@ section {
 }
 
 section.two {
-  background-color: lightgreen;
   width: 50%;
   float: left;
   height: 700px;
@@ -42,7 +40,6 @@ section.two {
 aside {
   float: left;
   width: 100%;
-  background-color: brown;
   }
   
 img {
@@ -60,6 +57,10 @@ p {
   margin: 20px 30px 20px 20px;  
   line-height: 250%;
   }
+  
+body {
+  background-image: url("http://www.mrwallpaper.com/wallpapers/gradient-background.jpg");
+}  
 
 footer {
   clear: both;
