@@ -11,7 +11,7 @@ nav li {
  }
   
 li:hover  {
-  background-color: lightblue; 
+  background-color: DarkGoldenRod; 
   width: auto;   
   }
   
@@ -40,10 +40,10 @@ section.two {
  
   }
   
-aside {
+aside>li:hover {
   float: left;
   width: 100%;
-  
+  background-color: DarkGoldenRod;
   }
   
 img {
