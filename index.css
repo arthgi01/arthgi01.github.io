@@ -2,6 +2,8 @@ nav {
   padding: 5px;
   margin: auto;
   text-align: center;
+  border-style: ridge;
+  border-color: DarkGoldenRod;
 }
 
 nav li {
@@ -30,17 +32,23 @@ section {
   height: 700px;
   float: left;
   text-align: justify;
+  border-style: ridge;
+  border-color: DarkGoldenRod;
 }
 
 section.two {
   width: 50%;
   float: left;
   height: 700px;
+  border-style: ridge;
+  border-color: DarkGoldenRod;
   }
   
 aside {
   float: left;
   width: 100%;
+  border-style: ridge;
+  border-color: DarkGoldenRod;
   }
   
 img {
@@ -68,5 +76,7 @@ body {
 
 footer {
   clear: both;
+  border-style: ridge;
+  border-color: DarkGoldenRod;
   }
 
