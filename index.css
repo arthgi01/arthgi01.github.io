@@ -57,7 +57,10 @@ p {
   }
   
 body {
-  background-image: url("http://images.fineartamerica.com/images-medium-large/abstract-orange-and-red-background-nattapon-wongwean.jpg");
+  background-image: url("http://p1.pichost.me/i/76/2010726.jpg?dl=1");
+  background-repeat: no-repeat;
+  padding:35px;
+  background-origin: content-box;
 }  
 
 footer {
