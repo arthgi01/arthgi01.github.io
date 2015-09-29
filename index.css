@@ -7,7 +7,7 @@ nav {
 
 nav li {
   display: inline;
-  margin: 60px;
+  margin: 100px;
   font-size: 15pt;
  }
   
@@ -58,7 +58,7 @@ p {
   position: relative;
   text-align: justify;
   margin: 20px 30px 20px 20px;  
-  line-height: 150%;
+  line-height: 200%;
   }
 
 footer {
