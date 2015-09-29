@@ -3,70 +3,66 @@ nav {
   padding: 5px;
   margin: auto;
   text-align: center;
-  
 }
 
- nav li {
-   display: inline;
-   margin: 60px;
-   font-size: 15pt;
-   
+nav li {
+  display: inline;
+  margin: 60px;
+  font-size: 15pt;
  }
   
-    li:hover  {
-      background-color: lightblue; 
-      width: auto;   
-      }
-     
-     header {
-       background-color: grey;
-       text-align: center;
-       font-size: 20pt;
-       padding: 20px;
-       
-     }
-      section {
-        background-color: lightblue;
-        width: 50%;
-        height: 700px;
-        float: left;
-        text-align: justify;
-        
-      }
-        section.two {
-          background-color: lightgreen;
-          width: 50%;
-          float: left;
-          height: 700px;
-          
-        }
-        
-          aside {
-            float: left;
-            width: 100%;
-            background-color: brown;
-            
-          }
-            img {
-              float: left;
-              margin: 10px 10px 10px 0px;
-              
-            }
-              h1, h2, h3 {
-                margin: 10px 10px 10px 18px;
-                
-              }
-                p {
-                  position: relative;
-                  text-align: justify;
-                  margin: 20px 30px 20px 20px;  
-                  line-height: 150%;
-                  
-                }
+li:hover  {
+  background-color: lightblue; 
+  width: auto;   
+  }
+  
+  
+header {
+  background-color: grey;
+  text-align: center;
+  font-size: 20pt;
+  padding: 20px;
+  }
 
-                  footer {
-                    clear: both;
-                    background-color: pink;
-                    
-                  }
+section {
+  background-color: lightblue;
+  width: 50%;
+  height: 700px;
+  float: left;
+  text-align: justify;
+}
+
+section.two {
+  background-color: lightgreen;
+  width: 50%;
+  float: left;
+  height: 700px;
+  }
+  
+aside {
+  float: left;
+  width: 100%;
+  background-color: brown;
+  }
+  
+img {
+  float: left;
+  margin: 10px 10px 10px 0px;
+  }
+  
+h1, h2, h3 {
+  margin: 10px 10px 10px 18px;
+}
+  
+p {
+  position: relative;
+  text-align: justify;
+  margin: 20px 30px 20px 20px;  
+  line-height: 150%;
+  }
+
+footer {
+  clear: both;
+  background-color: pink;
+  }
 
