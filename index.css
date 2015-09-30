@@ -12,7 +12,7 @@ nav li {
   
 li:hover  {
   background-color: DarkGoldenRod; 
-  width: 50%;   
+  width: auto;   
   }
   
   
