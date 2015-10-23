@@ -4,21 +4,25 @@
     <link rel = stylesheet href = todospa.css type = text/css />
     <script type = "text/javascript" src = "todospa.js"></script>
   </head>
+  
   <body>
     <h1>Busy Busy</h1>
+    
     <main>
-      <input id = "checkMe" type = "checkbox" ><br />
-      
-      
+      <ul type = none id = "hello"></ul>
     </main>
+    
     <section>
-      Enter Task <input type="text" value="enter task here" size="60">
+      Enter Task <input id = "iChange" type="text" size="60">
+      
       <select id="priority">
         <option>High</option>
         <option>Medium</option>
         <option>low</option>
       </select>
+      
       <button onclick = "NewToDo();">New</button>
+      
     </section>
     <footer>
       
