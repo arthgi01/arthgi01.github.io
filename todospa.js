@@ -15,7 +15,7 @@
         li.appendChild(checkBox);
         li.appendChild(toDo);
         li.className = document.querySelector("#priority").value;
-        list.appendChild(li)
+        list.appendChild(li);
 
         localSave('hello')
 
