@@ -9,8 +9,8 @@
         checkBox.name = "done";
         checkBox.onclick = doneTask;
 
-        task = document.querySelector("#iChange").value;
-        toDo = document.createTextNode(task);
+        var task = document.querySelector("#iChange").value;
+        var toDo = document.createTextNode(task);
         
         li.appendChild(checkBox);
         li.appendChild(toDo);
