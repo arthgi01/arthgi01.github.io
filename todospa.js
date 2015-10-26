@@ -1,4 +1,3 @@
-<script type = "text/javascript">
 
         newToDo = function () {
         var list = document.querySelector("#hello");
@@ -34,4 +33,3 @@
 
 
 
-</script>
